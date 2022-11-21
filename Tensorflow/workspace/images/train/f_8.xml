@@ -1,0 +1,26 @@
+<annotation>
+	<folder>face</folder>
+	<filename>f_8.jpg</filename>
+	<path>C:\Users\matte\Documents\Università\GroupProject\ImageCatalogingSupportV2\Tensorflow\workspace\images\collectedimages\face\f_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>403</width>
+		<height>398</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>110</ymin>
+			<xmax>367</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

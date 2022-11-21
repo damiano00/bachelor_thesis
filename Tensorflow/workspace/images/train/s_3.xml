@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stamp</folder>
+	<filename>s_3.jpg</filename>
+	<path>C:\Users\matte\Documents\Università\GroupProject\ImageCatalogingSupportV2\Tensorflow\workspace\images\collectedimages\stamp\s_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2109</width>
+		<height>3073</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1259</xmin>
+			<ymin>483</ymin>
+			<xmax>1732</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>
